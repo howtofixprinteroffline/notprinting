@@ -22,7 +22,7 @@ Why Is My Canon Printer Not Printing?
 There are several reasons why your Canon printer may stop printing. Below are the most common causes:
 
 1. Printer is Offline
-----------------------
+~~~~~~~~~~~~~~~~~~~~
 Your system may show the printer as offline, preventing it from printing.
 
 2. Connectivity Issues
