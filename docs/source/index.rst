@@ -135,33 +135,43 @@ Frequently Asked Questions (FAQs)
 --------------------------------
 
 Q1. Why is my Canon printer connected but not printing?
+
 A: This usually happens due to driver issues, print queue errors, or incorrect printer settings.
 
 Q2. How do I fix my Canon printer not printing wirelessly?
+
 A: Check WiFi connection, restart the router, reconnect the printer, and update drivers.
 
 Q3. What should I do if my Canon printer has ink but still not printing?
+
 A: Clean the print head, check cartridges, and ensure no clogs are blocking ink flow.
 
 Q4. Why is my Canon printer printing blank pages?
+
 A: This can be caused by clogged nozzles, empty cartridges, or incorrect settings.
 
 Q5. How do I reset my Canon printer?
+
 A: Go to printer settings and select reset or hold the reset button (model-specific instructions may vary).
 
 Q6. Can outdated drivers cause printing issues?
+
 A: Yes, outdated or corrupted drivers are one of the most common causes.
 
 Q7. Why is my print job stuck in the queue?
+
 A: Print spooler errors or corrupted files can cause this issue.
 
 Q8. How do I know if my Canon printer is offline?
+
 A: Check printer status in device settings; it will show “Offline” if disconnected.
 
 Q9. Does antivirus software affect printing?
+
 A: Yes, sometimes firewall or antivirus blocks printer communication.
 
 Q10. When should I contact support?
+
 A: If none of the solutions work, it may be a hardware issue requiring expert assistance.
 
 Conclusion
